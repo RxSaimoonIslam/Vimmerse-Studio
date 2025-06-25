@@ -13,6 +13,11 @@ I've explored advanced techniques for generating story-driven videos, focusing h
 
 I've also developed advanced APIs to streamline story generation—from initial idea directly to video. Additionally, I'll soon share a superior platform, enabling you to effortlessly transform your ideas into captivating stories or films.
 
+### Try the API yourself!
+
+* **Idea:** *"A beautiful saleswoman showing facial cream beauty product for wrinkles in a shopping mall to a man and his wife. They like the product and decide to purchase it."*
+* **API URL:** [https://www.vimmerse.net/story/idea-2-video](https://www.vimmerse.net/story/idea-2-video)
+
 ### Contact Information
 
 Feel free to reach out if you're interested in exploring collaborations, experiencing these APIs firsthand, or discussing related projects:
