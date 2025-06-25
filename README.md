@@ -9,7 +9,7 @@ I've explored advanced techniques for generating story-driven videos, focusing h
 * AI-generated narrations and audio tracks.
 
 **Example Video:**
-[Watch Example Video](https://dev-media.vimmerse.net/vimmerse-test-user/batch/548aae63-fcd1-4c80-b739-62ef7002b6f1/story/2/548aae63-fcd1-4c80-b739-62ef7002b6f1.mp4)
+[![Watch Example Video](https://dev-media.vimmerse.net/vimmerse-test-user/b22a104d-5aad-48a3-bf98-37f589446e7d/bullet/thumbnail/thumbnail.jpg)](https://dev-media.vimmerse.net/vimmerse-test-user/batch/548aae63-fcd1-4c80-b739-62ef7002b6f1/story/2/548aae63-fcd1-4c80-b739-62ef7002b6f1.mp4)
 
 I've also developed advanced APIs to streamline story generation—from initial idea directly to video. Additionally, I'll soon share a superior platform, enabling you to effortlessly transform your ideas into captivating stories or films.
 
