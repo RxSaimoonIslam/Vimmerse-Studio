@@ -17,6 +17,7 @@ I've also developed advanced APIs to streamline story generation—from initial 
 
 * **Idea:** *"A beautiful saleswoman showing facial cream beauty product for wrinkles in a shopping mall to a man and his wife. They like the product and decide to purchase it."*
 * **API URL:** [https://www.vimmerse.net/story/idea-2-video](https://www.vimmerse.net/story/idea-2-video)
+* **API Document:** [https://vimmerse-api.redoc.ly/#tag/Story](https://vimmerse-api.redoc.ly/#tag/Story)
 
 ### Contact Information
 
