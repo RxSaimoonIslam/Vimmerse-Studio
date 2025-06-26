@@ -11,10 +11,13 @@ I've explored advanced techniques for generating story-driven videos, focusing h
 ## Example Videos
 
 [![Watch Example Video](https://github.com/lathan218/Vimmerse-Studio/blob/main/AI-Story.jpg?raw=true)](https://dev-media.vimmerse.net/vimmerse-test-user/batch/548aae63-fcd1-4c80-b739-62ef7002b6f1/story/2/548aae63-fcd1-4c80-b739-62ef7002b6f1.mp4)
+
 Idea: *"A beautiful saleswoman showing facial cream beauty product for wrinkles in a shopping mall to a man and his wife. They like the product and decide to purchase it."*
 
 [![Watch Example Video](https://github.com/lathan218/Vimmerse-Studio/blob/main/videoframe_476.png?raw=true)](https://dev-media.vimmerse.net/vimmerse-test-user/batch/f03b2774-9ffe-42d6-81ce-84664a6c998c/story/1/f03b2774-9ffe-42d6-81ce-84664a6c998c.mp4)
+
 Idea: *"Couple visiting downtown San Francisco and exploring the street markets. Then they head to an overview point near the golden gate bridge to enjoy the view during the sunset."*
+
 
 
 I've also developed advanced APIs to streamline story generation—from initial idea directly to video. Additionally, I'll soon share a superior platform, enabling you to effortlessly transform your ideas into captivating stories or films.
